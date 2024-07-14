@@ -1,46 +1,64 @@
 {
-  "hash": "276b5c44",
+  "hash": "335adc08",
   "configHash": "aa40a1d6",
-  "lockfileHash": "90763b0f",
-  "browserHash": "0ac35eed",
+  "lockfileHash": "14c91849",
+  "browserHash": "2314a322",
   "optimized": {
     "vue": {
       "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "33a7af1a",
+      "fileHash": "88b3a790",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "67fa2274",
+      "fileHash": "a1347355",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "0a0559dc",
+      "fileHash": "910e0488",
       "needsInterop": false
     },
     "@theme/index": {
       "src": "../../../node_modules/vitepress/dist/client/theme-default/index.js",
       "file": "@theme_index.js",
-      "fileHash": "67b92ad6",
+      "fileHash": "dd49906b",
       "needsInterop": false
     },
     "@slsanyi/utils": {
       "src": "../../../node_modules/@slsanyi/utils/dist/index.js",
       "file": "@slsanyi_utils.js",
-      "fileHash": "9b43f40d",
+      "fileHash": "23ad5953",
       "needsInterop": false
+    },
+    "react": {
+      "src": "../../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8943a1f6",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3ef6ca14",
+      "needsInterop": true
     }
   },
   "chunks": {
+    "chunk-EEZG7H6C": {
+      "file": "chunk-EEZG7H6C.js"
+    },
     "chunk-GK7ZRSPS": {
       "file": "chunk-GK7ZRSPS.js"
     },
     "chunk-XPVHNUZ4": {
       "file": "chunk-XPVHNUZ4.js"
+    },
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
     }
   }
 }

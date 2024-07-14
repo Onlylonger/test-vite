@@ -2,6 +2,6 @@
   "version": 3,
   "sources": ["../../../node_modules/@slsanyi/utils/dist/index.js"],
   "sourcesContent": ["const a = {\n  name: 2\n};\nexport {\n  a as default\n};\n"],
-  "mappings": ";AAAA,IAAM,IAAI;AAAA,EACR,MAAM;AACR;",
+  "mappings": ";;;AAAA,IAAM,IAAI;AAAA,EACR,MAAM;AACR;",
   "names": []
 }

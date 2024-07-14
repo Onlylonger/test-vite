@@ -7,6 +7,7 @@ import {
   shallowRef,
   watch
 } from "./chunk-XPVHNUZ4.js";
+import "./chunk-BUSYA2B4.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
 import "/Users/Onlylonger/workspace/test/vite-demo/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";

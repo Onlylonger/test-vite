@@ -4,8 +4,9 @@ layout: false
 ---
 
 <script setup>
-import HelloWorld from './HelloWord.vue'
+import Demo from './ReactWrap/index.vue'
+import App from './index.jsx'
 
 </script>
 
-<HelloWorld/>
+<Demo :component="App"/>
