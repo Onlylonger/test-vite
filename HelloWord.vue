@@ -1,4 +1,4 @@
-<script lang="ts">
+<script setup>
 import slutils from "@slsanyi/utils";
 
 console.log(slutils);
